@@ -6,6 +6,8 @@ A simple Streamlit app showing the GDP of different countries in the world.
 
 ### How to run it on your own machine
 
+Hello, this is the required for installiation on desktop. Please follow to install...
+
 1. Install the requirements
 
    ```
